@@ -1,0 +1,6 @@
+framework module Pods_SimpleToDoList {
+  umbrella header "Pods-SimpleToDoList-umbrella.h"
+
+  export *
+  module * { export * }
+}
